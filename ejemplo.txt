@@ -1,0 +1,4 @@
+Nombre: Alejandro
+Edad: 28 años
+Altura: 1.75 metros
+Habitad: alaska
